@@ -1,0 +1,32 @@
+.card-body {
+  top: 40px;
+  right: 40px;
+  padding: 5px;
+}
+
+.card-body option {
+  width: 40px;
+  height: 40px;
+  float: left;
+}
+
+#red {
+  background: #eb0c0c;
+}
+#red {
+  background: #269e40;
+}
+#red {
+  background: #eca217;
+}
+#red {
+  background: #033db9;
+}
+#red {
+  background: #000000;
+}
+
+.ab {
+  height: 200px;
+  outline: 2px solid #ffffff;
+}
